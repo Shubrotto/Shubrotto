@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubrotto
 - 👀 I’m interested in software Enggering
-- 🌱 I’m currently learning program in c
-- 💞️ I’m looking to collaborate on program c , c++
+- 🌱 I’m currently learning program in node
+- 💞️ I’m looking to collaborate on Js, Reactjs, nodejs
 - 📫 How to reach me By pratcing
 
 <!---
